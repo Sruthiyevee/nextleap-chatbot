@@ -172,6 +172,50 @@ def create_chunks(data):
                         "text": chunk_text,
                         "metadata": {"source": course_url, "course": course_name, "type": "success_story"}
                     })
+            
+            # 6. Instructors (Grouped)
+            instructors = details.get("instructors", [])
+            if instructors:
+                instructor_lines = [f"Course: {course_name} - Instructors"]
+                for instructor in instructors:
+                    name = instructor.get("name", "")
+                    designation = instructor.get("designation", "")
+                    experience = instructor.get("experience", "")
+                    instructor_lines.append(f"{name} - {designation}, {experience}")
+                
+                instructor_text = "\n".join(instructor_lines)
+                for chunk_text in s.split_text(instructor_text):
+                    all_chunks.append({
+                        "text": chunk_text,
+                        "metadata": {"source": course_url, "course": course_name, "type": "instructors"}
+                    })
+            
+            # 7. Mentors (Grouped)
+            mentors = details.get("mentors", [])
+            if mentors:
+                mentor_lines = [f"Course: {course_name} - Mentors"]
+                for mentor in mentors:
+                    name = mentor.get("name", "")
+                    expertise = mentor.get("expertise", "")
+                    experience = mentor.get("experience", "")
+                    mentor_lines.append(f"{name} - {expertise}, {experience}")
+                
+                mentor_text = "\n".join(mentor_lines)
+                for chunk_text in s.split_text(mentor_text):
+                    all_chunks.append({
+                        "text": chunk_text,
+                        "metadata": {"source": course_url, "course": course_name, "type": "mentors"}
+                    })
+            
+            # 8. Tools (Grouped)
+            tools = details.get("tools_you_learn", [])
+            if tools:
+                tools_text = f"Course: {course_name} - Tools You Learn\n" + ", ".join(tools)
+                for chunk_text in s.split_text(tools_text):
+                    all_chunks.append({
+                        "text": chunk_text,
+                        "metadata": {"source": course_url, "course": course_name, "type": "tools"}
+                    })
 
     return all_chunks
 
