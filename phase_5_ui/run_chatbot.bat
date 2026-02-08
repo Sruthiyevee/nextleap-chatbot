@@ -15,7 +15,7 @@ if errorlevel 1 (
 
 echo [1/3] Installing backend dependencies...
 cd backend
-pip install -r requirements.txt --quiet
+python -m pip install -r requirements.txt --quiet
 if errorlevel 1 (
     echo ERROR: Failed to install backend dependencies
     pause
