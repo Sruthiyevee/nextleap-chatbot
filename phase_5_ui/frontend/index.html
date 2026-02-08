@@ -1,37 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NextLeap Chatbot</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
+    <nav class="navbar">
+        <div class="navbar-brand">nextLeap</div>
+    </nav>
+
     <div class="chat-container">
         <div class="chat-header">
-            <h1>NextLeap AI Assistant</h1>
-            <p>Ask me anything about NextLeap's fellowships!</p>
+            <h1>Accelerate your career</h1>
+            <p>Live learning with industry experts. Jobs at technology companies.</p>
         </div>
-        
+
         <div class="chat-messages" id="chatMessages">
             <div class="message bot-message">
                 <div class="message-content">
-                    <p>👋 Hi there! I'm your NextLeap assistant. I can help you learn about our Product Management, UI/UX Design, Data Analytics, and other fellowships. What would you like to know?</p>
+                    <p>👋 Hi there! I'm your NextLeap assistant. I can help you learn about our Product Management,
+                        UI/UX Design, Data Analytics, and other fellowships. What would you like to know?</p>
                 </div>
             </div>
         </div>
-        
+
         <div class="chat-input-container">
-            <input 
-                type="text" 
-                id="userInput" 
-                placeholder="Ask about courses, instructors, pricing..." 
-                autocomplete="off"
-            />
+            <input type="text" id="userInput" placeholder="Ask about courses, instructors, pricing..."
+                autocomplete="off" />
             <button id="sendButton">Send</button>
         </div>
     </div>
 
     <script src="script.js"></script>
 </body>
+
 </html>
