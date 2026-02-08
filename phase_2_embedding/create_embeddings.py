@@ -108,6 +108,13 @@ def create_chunks(data):
                  cost = details['cost']
                  overview_lines.append(f"Cost: {cost.get('amount', '')} {cost.get('currency', '')}")
             
+            if "salary_ranges" in details:
+                salary = details['salary_ranges']
+                min_lpa = salary.get('min_lpa', '')
+                max_lpa = salary.get('max_lpa', '')
+                if min_lpa and max_lpa:
+                    overview_lines.append(f"Expected Salary Range: {min_lpa}-{max_lpa} LPA")
+            
             overview_text = "\n".join(overview_lines)
             
             for chunk_text in s.split_text(overview_text):
