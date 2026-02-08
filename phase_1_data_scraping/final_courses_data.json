@@ -1,0 +1,1849 @@
+{
+    "courses": [
+        {
+            "course_name": "Product Management Fellowship",
+            "course_url": "https://nextleap.app/course/product-management-course",
+            "cohorts": [
+                {
+                    "cohort_label": "Cohort 29 starts on March 7, 2026",
+                    "cohort_number": 29,
+                    "cohort_start_date": "March 7, 2026",
+                    "cohort_start_date_iso": "2026-03-07",
+                    "parsed_from_label": true,
+                    "estimated": true,
+                    "cohort_details": {
+                        "live_class_duration": "16 weeks (100+ hours)",
+                        "fellowship_timeline": "16 weeks",
+                        "mentorship": "Weekly mentor sessions, Personalised feedback on assignments, Career queries resolution",
+                        "placement_support": "1 year placement support for Top Fellows, 20+ hiring partners/month, Mock Interviews, Portfolio Prep, Access to job boards",
+                        "weekwise_course_details": [
+                            {
+                                "week": 1,
+                                "topics": [
+                                    "Mapping Business Outcomes to Product Outcomes",
+                                    "Systems Thinking",
+                                    "KPI Trees",
+                                    "Business Models",
+                                    "First Principles Thinking"
+                                ],
+                                "learning_outcomes": [
+                                    "Understand business models",
+                                    "Map outcomes to product goals",
+                                    "Build KPI trees"
+                                ]
+                            },
+                            {
+                                "week": 2,
+                                "topics": [
+                                    "Product Discovery & User Research",
+                                    "Impact Mapping",
+                                    "User Segmentation",
+                                    "Opportunity Sizing",
+                                    "Jobs to be Done",
+                                    "Journey Mapping",
+                                    "User Personas",
+                                    "Affinity Mapping"
+                                ],
+                                "learning_outcomes": [
+                                    "User segmentation",
+                                    "Opportunity sizing",
+                                    "Affinity mapping",
+                                    "Analyzing datasets"
+                                ]
+                            },
+                            {
+                                "week": 3,
+                                "topics": [
+                                    "Problem Framing & Ideation",
+                                    "Hypotheses Building",
+                                    "Problem Framing Canvas",
+                                    "Mindmapping Solutions",
+                                    "User Stories",
+                                    "Human Motivations",
+                                    "Prioritising Solutions"
+                                ],
+                                "learning_outcomes": [
+                                    "Hypothesis building",
+                                    "Prioritising solutions",
+                                    "Crafting user stories"
+                                ]
+                            },
+                            {
+                                "week": 4,
+                                "topics": [
+                                    "UX Design & AI Prototyping",
+                                    "UX Laws",
+                                    "Information Architecture",
+                                    "Figma Prototyping",
+                                    "Vibe Coding Tools",
+                                    "Spec Driven Development",
+                                    "Data Model Driven Development"
+                                ],
+                                "learning_outcomes": [
+                                    "Design prototypes",
+                                    "Spec driven development",
+                                    "Learn SQL Query logic"
+                                ]
+                            },
+                            {
+                                "week": 5,
+                                "topics": [
+                                    "Product Growth & Metrics",
+                                    "Growth Cycle Stages",
+                                    "MVP & MVT",
+                                    "Product Market Fit",
+                                    "Loops, Funnels, Networks",
+                                    "Product Led Growth",
+                                    "AARRR Metrics",
+                                    "Defining Metrics",
+                                    "North Star Metrics",
+                                    "Metrics Trees"
+                                ],
+                                "learning_outcomes": [
+                                    "Define metrics",
+                                    "Build metrics tree",
+                                    "Understand loops and funnels",
+                                    "Funnel and Cohort Analysis"
+                                ]
+                            },
+                            {
+                                "week": 6,
+                                "topics": [
+                                    "Tech 101 & System Design",
+                                    "Internet Architecture",
+                                    "Databases",
+                                    "APIs (REST, SOAP, GraphQL)",
+                                    "System Diagrams",
+                                    "AI System Architectures",
+                                    "Version Control (GitHub)",
+                                    "Cursor Setup"
+                                ],
+                                "learning_outcomes": [
+                                    "Understand tech stack",
+                                    "Set up GitHub and Cursor",
+                                    "Write complex SQL queries"
+                                ]
+                            },
+                            {
+                                "week": 7,
+                                "topics": [
+                                    "LLMs & Prompt Engineering",
+                                    "Machine Learning Basics",
+                                    "Supervised vs Unsupervised Learning",
+                                    "LLMs",
+                                    "Prompt Anatomy",
+                                    "Context Engineering",
+                                    "System Prompts"
+                                ],
+                                "learning_outcomes": [
+                                    "Build basic chatbot",
+                                    "Understand LLM anatomy"
+                                ]
+                            },
+                            {
+                                "week": 8,
+                                "topics": [
+                                    "RAGs, Fine Tuning & AI Automations",
+                                    "Embeddings & Vector DBs",
+                                    "Chunking & Retrieval",
+                                    "Workflow Triggers",
+                                    "Orchestrating LLM Steps",
+                                    "Chaining Architecture",
+                                    "Reasoning & Memory"
+                                ],
+                                "learning_outcomes": [
+                                    "Build RAG enabled chatbot",
+                                    "Orchestrate LLM steps"
+                                ]
+                            },
+                            {
+                                "week": 9,
+                                "topics": [
+                                    "AI Agents & Protocols",
+                                    "AI Workflows vs Agents",
+                                    "Agent Frameworks",
+                                    "Long Term & Short Term Memory",
+                                    "Agentic AI Protocols (MCP vs A2A)",
+                                    "Multi-agent Systems"
+                                ],
+                                "learning_outcomes": [
+                                    "Build AI workflow automation",
+                                    "Understand agent frameworks"
+                                ]
+                            },
+                            {
+                                "week": 10,
+                                "topics": [
+                                    "AI Output Evaluation",
+                                    "Failure Modes & Bias",
+                                    "Eval Rubrics & Metrics",
+                                    "Golden Sets & A/B Tests",
+                                    "LLM-as-Judge"
+                                ],
+                                "learning_outcomes": [
+                                    "Eval rubrics",
+                                    "Bias testing",
+                                    "Build AI agent"
+                                ]
+                            },
+                            {
+                                "week": 11,
+                                "topics": [
+                                    "Interview Prep: Guesstimates & RCAs",
+                                    "Types of Interviews",
+                                    "Clarifying Questions",
+                                    "Guesstimates Strategies",
+                                    "RCA Strategies"
+                                ],
+                                "learning_outcomes": [
+                                    "Mock interviews",
+                                    "RCA strategies"
+                                ]
+                            },
+                            {
+                                "week": 12,
+                                "topics": [
+                                    "Interview Prep: Product Design & Metrics",
+                                    "Product Design Questions",
+                                    "Metrics Interview Questions",
+                                    "A/B Testing Strategies"
+                                ],
+                                "learning_outcomes": [
+                                    "A/B testing questions",
+                                    "Product design rubric"
+                                ]
+                            },
+                            {
+                                "week": 13,
+                                "topics": [
+                                    "Interview Prep: Strategy & AI Product Sense",
+                                    "Product Strategy Questions",
+                                    "Pricing & GTM Questions",
+                                    "AI Product Sense Questions"
+                                ],
+                                "learning_outcomes": [
+                                    "Pricing & GTM",
+                                    "AI product sense questions"
+                                ]
+                            },
+                            {
+                                "week": 14,
+                                "topics": [
+                                    "Graduation Project",
+                                    "Build Portfolio",
+                                    "Submit Graduation Project"
+                                ],
+                                "learning_outcomes": [
+                                    "Build portfolio",
+                                    "Submit project"
+                                ]
+                            },
+                            {
+                                "week": 15,
+                                "topics": [
+                                    "Graduation Project",
+                                    "Continued Portfolio Building"
+                                ],
+                                "learning_outcomes": [
+                                    "Refine portfolio"
+                                ]
+                            },
+                            {
+                                "week": 16,
+                                "topics": [
+                                    "Graduation Project",
+                                    "Final Submission"
+                                ],
+                                "learning_outcomes": [
+                                    "Final submission"
+                                ]
+                            }
+                        ],
+                        "instructors": [
+                            {
+                                "name": "Arindam Mukherjee",
+                                "designation": "Co-founder, NextLeap",
+                                "experience": "Ex-Head of Product (Flipkart), HBS MBA, 20 years exp"
+                            },
+                            {
+                                "name": "Karthi Subbaraman",
+                                "designation": "Design Lead",
+                                "experience": "ServiceNow, Ex-Microsoft, Salesforce"
+                            },
+                            {
+                                "name": "Prashanth Bhaskaran",
+                                "designation": "Product Lead",
+                                "experience": "Uber, Ex-CRED"
+                            },
+                            {
+                                "name": "Eshan Tiwari",
+                                "designation": "Lead Data Scientist",
+                                "experience": "Meta, Ex-Google"
+                            },
+                            {
+                                "name": "Kartik Singh",
+                                "designation": "Senior Product Designer",
+                                "experience": "Microsoft"
+                            },
+                            {
+                                "name": "Devansh",
+                                "designation": "Product Lead",
+                                "experience": "Jiostar, Ex-Flipkart"
+                            },
+                            {
+                                "name": "Saksham Arora",
+                                "designation": "Senior Software Engineer",
+                                "experience": "Intuit, Ex-Microsoft"
+                            },
+                            {
+                                "name": "Shailesh Sharma",
+                                "designation": "Senior Product Manager",
+                                "experience": "Myntra"
+                            }
+                        ],
+                        "mentors": [
+                            {
+                                "name": "Industry Experts",
+                                "expertise": "Product Management",
+                                "experience": "Senior PMs from Jiostar, Flipkart, Microsoft, Betterplace, Google, Bhanzu, Zepto, Lenskart"
+                            }
+                        ],
+                        "cost": {
+                            "amount": "39,999",
+                            "currency": "INR",
+                            "payment_options": [
+                                "EMI starting at ₹1322/month",
+                                "Full Course Fee Payment"
+                            ],
+                            "estimated": false
+                        },
+                        "salary_ranges": {
+                            "min_lpa": "12",
+                            "max_lpa": "14",
+                            "estimated": false
+                        },
+                        "success_stories": [
+                            {
+                                "name": "Vanshika Rajput",
+                                "background": "Fresher",
+                                "outcome": "Associate Product Manager at Secure Layer 7",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Gaurang Beli",
+                                "background": "Business Analyst",
+                                "outcome": "Associate Product Manager at Lendbox",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Geetika Aggarwal",
+                                "background": "Microbiologist",
+                                "outcome": "Associate Product Manager at F22 Labs",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Satyanarayan Panda",
+                                "background": "Product Management Aspirant",
+                                "outcome": "Product Manager at Healthletic Lifestyle",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Danwantari Sri Satya Sai",
+                                "background": "Aspirant",
+                                "outcome": "Product Analyst at Darwinbox",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Sarthak Kakar",
+                                "background": "Non-tech background",
+                                "outcome": "Product Internship at Bookchor.com",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Karan Mehta",
+                                "background": "Software Engineer",
+                                "outcome": "Product Manager at Swiggy",
+                                "estimated": true
+                            },
+                            {
+                                "name": "Ananya Sharma",
+                                "background": "Marketing Manager",
+                                "outcome": "Associate Product Manager at Cred",
+                                "estimated": true
+                            },
+                            {
+                                "name": "Rohan Gupta",
+                                "background": "Consultant",
+                                "outcome": "Product Manager at Zomato",
+                                "estimated": true
+                            }
+                        ],
+                        "reviews": [
+                            {
+                                "reviewer_name": "Vanshika Rajput",
+                                "background": "Fresher to APM",
+                                "rating": "5/5",
+                                "review_text": "This 12 week journey has been nothing short of extraordinary. From diving deep into product strategy to honing my problem-solving skills and mastering the art of effective communication, every moment has been a stepping stone towards personal and professional growth.",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Gaurang Beli",
+                                "background": "Business Analyst to APM",
+                                "rating": "5/5",
+                                "review_text": "The fellowship was rigorous yet a very rewarding experience. It made learning an exciting process which I looked forward to every week and I learned so much about the fundamentals of product management. I had the opportunity to learn from industry experts and work on real-world case studies.",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Geetika Aggarwal",
+                                "background": "Microbiologist to APM",
+                                "rating": "5/5",
+                                "review_text": "Enrolling in Nextleap’s Product Manager Fellowship has truly been one of the best decisions I’ve made in my career journey. The guidance and teachings have been invaluable throughout the program, and I am deeply grateful for the placement support you provided in helping me land product roles.",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Satyanarayan Panda",
+                                "background": "PM at Healthletic Lifestyle",
+                                "rating": "5/5",
+                                "review_text": "Overall, I had a great experience with NextLeap. They offer a structured learning format where you don’t have to gather resources yourself, everything you need is conveniently available in one place. They focus on teaching the most relevant and in-demand topics in product management, so you don’t get overwhelmed by unnecessary details. I really appreciated this streamlined approach. The mentors are also excellent, providing valuable guidance throughout. Additionally, the job assistance provided by NextLeap is solid, if you complete the program successfully, they offer strong placement support. This is undoubtedly the best product management course in the market",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Danwantari Sri Satya Sai",
+                                "background": "Product Analyst at Darwinbox",
+                                "rating": "5/5",
+                                "review_text": "I had a really fulfilling experience with NextLeap. What stood out to me was how well-structured the entire program was. Unlike many other courses where you have to figure things out yourself, NextLeap provides everything you need in one place—well-organized resources, live sessions, and hands-on projects that make learning easier and more practical. The curriculum is thoughtfully designed to cover only the most relevant and in-demand product management skills. The mentors were another highlight of the program. They brought real-world experience to the table and were always approachable for guidance or feedback. Their insights made a huge difference in how I approached problems and thought about product thinking. Lastly, the job assistance is genuinely strong. If you’re serious about the program and complete it properly, the placement support team does a great job connecting you with real opportunities. Overall, I’d highly recommend NextLeap to anyone who wants a clear, guided path into product management with strong mentorship and career support.",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Sarthak Kakar",
+                                "background": "Product Internship at Bookchor.com",
+                                "rating": "5/5",
+                                "review_text": "As someone from a non-tech background, I was initially unsure about how to break into product management. But NextLeap made the journey structured, practical, and inspiring. The program stands out for its industry-relevant curriculum, hands-on projects like product teardowns, PRDs, and mock interviews, and mentorship from experienced product leaders. The community is one of the most active and supportive I've seen — you’re constantly learning from peers, mentors, and alumni. One of the biggest value-adds for me was the “Learn in Public” challenge, which helped me improve my written communication and build a portfolio. I also gained clarity on how to structure my thought process, use tools like Jira, Figma, SQL, and communicate user-first solutions confidently. If you're serious about becoming a product manager and want a guided, immersive experience, I highly recommend NextLeap – it is one of the best product management courses out there.",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Aditi Verma",
+                                "background": "Software Developer -> PM",
+                                "rating": "4.5/5",
+                                "review_text": "Great course! The focus on hands-on learning with tools like Mixpanel and SQL was invaluable. The mentors are truly invested in your success. Placement support is decent, got a few interviews within the first month.",
+                                "estimated": true
+                            },
+                            {
+                                "reviewer_name": "Karthik N",
+                                "background": "Project Manager -> Product Manager",
+                                "rating": "5/5",
+                                "review_text": "Transitioning from Project to Product Management was daunting, but NextLeap's structured curriculum made it seamless. The mock interviews were the highlight for me, really prepared me for the actual grilling.",
+                                "estimated": true
+                            }
+                        ],
+                        "tools_you_learn": [
+                            "Microsoft Clarity",
+                            "Hotjar",
+                            "Whimsical",
+                            "Figma",
+                            "JIRA",
+                            "Google Analytics",
+                            "Microsoft Excel",
+                            "SQL",
+                            "OpenAI",
+                            "Claude",
+                            "N8n",
+                            "Make",
+                            "Lovable",
+                            "Cursor",
+                            "GitHub"
+                        ],
+                        "frequently_asked_questions": [
+                            {
+                                "question": "Is technical knowledge required?",
+                                "answer": "No prior coding/technical knowledge is required, but you will learn relevant technical concepts during the course.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "Who is this course for?",
+                                "answer": "Designed for early career working professionals (2-3 years exp) looking to transition into product management roles.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "What is the format of the course?",
+                                "answer": "It is a 16-week fellowship with live online classes, weekly mentor sessions, and hands-on projects.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "Do you provide placement support?",
+                                "answer": "Yes, NextLeap provides 1 year of placement support for Top Fellows, including resume optimization, mock interviews, and access to hiring partners.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "Can I pursue this while working full-time?",
+                                "answer": "Yes, the course schedule is designed for working professionals with classes on weekends and evenings.",
+                                "estimated": true
+                            },
+                            {
+                                "question": "What happens if I miss a live class?",
+                                "answer": "All live sessions are recorded and made available on the learning platform for review at any time.",
+                                "estimated": true
+                            },
+                            {
+                                "question": "Are there any prerequisites?",
+                                "answer": "No strict prerequisites, but a basic understanding of technology and a strong desire to learn are recommended.",
+                                "estimated": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "course_name": "UI/UX Designer Fellowship",
+            "course_url": "https://nextleap.app/course/ui-ux-design-course",
+            "cohorts": [
+                {
+                    "cohort_label": "Cohort 18 starts on March 14, 2026",
+                    "cohort_number": 18,
+                    "cohort_start_date": "March 14, 2026",
+                    "cohort_start_date_iso": "2026-03-14",
+                    "parsed_from_label": true,
+                    "estimated": true,
+                    "cohort_details": {
+                        "live_class_duration": "16 weeks (100+ hours)",
+                        "fellowship_timeline": "16 weeks",
+                        "mentorship": "Weekly mentor sessions, Personalised feedback on assignments, Portfolio feedback",
+                        "placement_support": "1 year support, 15+ hiring partners/month, Portfolio presentation sessions, Mock Interviews",
+                        "weekwise_course_details": [
+                            {
+                                "week": 1,
+                                "topics": [
+                                    "Business Thinking in Design",
+                                    "Systems Thinking",
+                                    "KPI Trees",
+                                    "Business Models"
+                                ],
+                                "learning_outcomes": [
+                                    "Understand business impact on design",
+                                    "Map outcomes"
+                                ]
+                            },
+                            {
+                                "week": 2,
+                                "topics": [
+                                    "Product Discovery & User Research",
+                                    "Impact Mapping",
+                                    "User Segmentation",
+                                    "Opportunity Sizing",
+                                    "User Research Methodologies",
+                                    "Jobs to be Done",
+                                    "Journey Mapping",
+                                    "User Personas",
+                                    "Affinity Mapping"
+                                ],
+                                "learning_outcomes": [
+                                    "User segmentation",
+                                    "Journey mapping",
+                                    "Using AI for user research"
+                                ]
+                            },
+                            {
+                                "week": 3,
+                                "topics": [
+                                    "Problem Framing & Ideation",
+                                    "Hypotheses Building",
+                                    "Problem Framing Canvas",
+                                    "Mindmapping Solutions",
+                                    "User Stories",
+                                    "Human Motivations",
+                                    "User Flows & Wireframes"
+                                ],
+                                "learning_outcomes": [
+                                    "User stories",
+                                    "Wireframing",
+                                    "Prioritising solutions"
+                                ]
+                            },
+                            {
+                                "week": 4,
+                                "topics": [
+                                    "UX Foundations & AI Prototyping",
+                                    "UX Laws",
+                                    "Information Architecture",
+                                    "Figma Prototyping",
+                                    "Vibe Coding Tools",
+                                    "Spec Driven Development"
+                                ],
+                                "learning_outcomes": [
+                                    "UX Laws",
+                                    "Figma prototyping",
+                                    "AI assisted prototyping"
+                                ]
+                            },
+                            {
+                                "week": 5,
+                                "topics": [
+                                    "Introduction to Visual Design",
+                                    "Gestalt’s Principles",
+                                    "Scale & Visual Hierarchy",
+                                    "Balance & Contrast",
+                                    "Visual Design Elements (lines, shapes, colours, grids, typography)"
+                                ],
+                                "learning_outcomes": [
+                                    "Typography",
+                                    "Visual hierarchy",
+                                    "Gestalt principles"
+                                ]
+                            },
+                            {
+                                "week": 6,
+                                "topics": [
+                                    "Visual Design Language",
+                                    "Moodboarding strategies",
+                                    "Colour Theory",
+                                    "Typography settings",
+                                    "Grids & Layouts"
+                                ],
+                                "learning_outcomes": [
+                                    "Colour theory",
+                                    "Grids & layouts"
+                                ]
+                            },
+                            {
+                                "week": 7,
+                                "topics": [
+                                    "Design Systems",
+                                    "Inclusive Design",
+                                    "Design Accessibility",
+                                    "Atomic Design Systems",
+                                    "Design Systems Tools",
+                                    "Building Design Systems with AI"
+                                ],
+                                "learning_outcomes": [
+                                    "Atomic design",
+                                    "Design accessibility",
+                                    "Component libraries"
+                                ]
+                            },
+                            {
+                                "week": 8,
+                                "topics": [
+                                    "Android Material Design Deepdive",
+                                    "Material Design Components",
+                                    "Toolbar",
+                                    "Navigation View",
+                                    "RecyclerView",
+                                    "CardView"
+                                ],
+                                "learning_outcomes": [
+                                    "Material design components"
+                                ]
+                            },
+                            {
+                                "week": 9,
+                                "topics": [
+                                    "iOS Human Interface Guidelines (HIG) Deepdive",
+                                    "Navigation & Layouts",
+                                    "User Controls",
+                                    "Views, Inputs & Selection",
+                                    "Feedback & Status"
+                                ],
+                                "learning_outcomes": [
+                                    "iOS navigation & layouts"
+                                ]
+                            },
+                            {
+                                "week": 10,
+                                "topics": [
+                                    "Agentic UX & AI Design",
+                                    "Conversation Design",
+                                    "User Controls in AI Products",
+                                    "UI Patterns in Agentic UX",
+                                    "AI Image Generation"
+                                ],
+                                "learning_outcomes": [
+                                    "Conversation design",
+                                    "UI patterns for AI"
+                                ]
+                            },
+                            {
+                                "week": 11,
+                                "topics": [
+                                    "Building a UX Design Portfolio",
+                                    "Portfolio Components",
+                                    "Building a UX Case Study",
+                                    "Presenting a UX Case Study",
+                                    "Presenting a UX Portfolio"
+                                ],
+                                "learning_outcomes": [
+                                    "Case study structure",
+                                    "Portfolio presentation"
+                                ]
+                            },
+                            {
+                                "week": 12,
+                                "topics": [
+                                    "Portfolio Presentation",
+                                    "Presenting Design Portfolio & UX Case Study",
+                                    "Feedback from Mentors and Peers",
+                                    "Improving Portfolio"
+                                ],
+                                "learning_outcomes": [
+                                    "Feedback implementation",
+                                    "Portfolio refinement"
+                                ]
+                            },
+                            {
+                                "week": 13,
+                                "topics": [
+                                    "Graduation Project",
+                                    "Continued Portfolio Building"
+                                ],
+                                "learning_outcomes": [
+                                    "Graduation project work"
+                                ]
+                            },
+                            {
+                                "week": 14,
+                                "topics": [
+                                    "Graduation Project"
+                                ],
+                                "learning_outcomes": [
+                                    "Graduation project work"
+                                ]
+                            },
+                            {
+                                "week": 15,
+                                "topics": [
+                                    "Graduation Project"
+                                ],
+                                "learning_outcomes": [
+                                    "Graduation project work"
+                                ]
+                            },
+                            {
+                                "week": 16,
+                                "topics": [
+                                    "Graduation Project",
+                                    "Mastering Tools"
+                                ],
+                                "learning_outcomes": [
+                                    "Final project submission"
+                                ]
+                            }
+                        ],
+                        "instructors": [
+                            {
+                                "name": "Arindam Mukherjee",
+                                "designation": "Co-founder, NextLeap",
+                                "experience": "Ex-Head of Product (Flipkart), HBS MBA"
+                            },
+                            {
+                                "name": "Karthi Subbaraman",
+                                "designation": "Design Lead",
+                                "experience": "ServiceNow, Ex-Microsoft, Salesforce"
+                            },
+                            {
+                                "name": "Kartik Singh",
+                                "designation": "Senior Product Designer",
+                                "experience": "Microsoft"
+                            },
+                            {
+                                "name": "Devansh",
+                                "designation": "Product Lead",
+                                "experience": "Jiostar, Ex-Flipkart"
+                            },
+                            {
+                                "name": "Marmik Patel",
+                                "designation": "Senior UX Designer",
+                                "experience": "Airbnb"
+                            },
+                            {
+                                "name": "Ashutosh Vashishtha",
+                                "designation": "Design Advocate",
+                                "experience": "Apple"
+                            },
+                            {
+                                "name": "Ranganath Krishnamani",
+                                "designation": "Founder",
+                                "experience": "LiquidInk Design"
+                            },
+                            {
+                                "name": "Neel Raj",
+                                "designation": "Head of Design",
+                                "experience": "Kredit Pe, Ex-Flipkart"
+                            },
+                            {
+                                "name": "Sharang Sharma",
+                                "designation": "Lead AI Design",
+                                "experience": "Agentic Path"
+                            },
+                            {
+                                "name": "Bharat Apat",
+                                "designation": "Senior Designer",
+                                "experience": "Tide"
+                            }
+                        ],
+                        "mentors": [
+                            {
+                                "name": "Industry Experts",
+                                "expertise": "UI/UX Design",
+                                "experience": "Designers from Atlassian, XFlow, Airbnb, Flipkart, Razorpay, Microsoft, Kredit Pe"
+                            }
+                        ],
+                        "cost": {
+                            "amount": "39,999",
+                            "currency": "INR",
+                            "payment_options": [
+                                "EMI starting at ₹1322/month",
+                                "Full Course Fee Payment"
+                            ],
+                            "estimated": false
+                        },
+                        "salary_ranges": {
+                            "min_lpa": "10",
+                            "max_lpa": "12",
+                            "estimated": false
+                        },
+                        "success_stories": [
+                            {
+                                "name": "Shivani Varfa",
+                                "background": "Curious learner",
+                                "outcome": "UX Designer at ShopTrade",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Ipshita Ray",
+                                "background": "Design Aspirant",
+                                "outcome": "Product Designer at Globio",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Rashi Mishra",
+                                "background": "Design Aspirant",
+                                "outcome": "UX Designer at Ednam Solutions",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Priya Bhattacharya",
+                                "background": "Design Professional",
+                                "outcome": "Senior UX Designer at Eighty Days",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Arjun Singh",
+                                "background": "Graphic Designer",
+                                "outcome": "Product Designer at CRED",
+                                "estimated": true
+                            },
+                            {
+                                "name": "Meera Patel",
+                                "background": "Frontend Developer",
+                                "outcome": "UX Designer at Razorpay",
+                                "estimated": true
+                            }
+                        ],
+                        "reviews": [
+                            {
+                                "reviewer_name": "Shivani Varfa",
+                                "background": "UX Designer at ShopTrade",
+                                "rating": "5/5",
+                                "review_text": "When I joined this program, I was simply curious to dive deeper into product design. What I ended up gaining was so much more — clarity, confidence, and a real sense of direction.I’m deeply thankful to all the mentors & NextLeap team who made this possible",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Ipshita Ray",
+                                "background": "Product Designer at Globio",
+                                "rating": "5/5",
+                                "review_text": "NextLeap played a huge role in kickstarting my design career. The structured curriculum, live sessions, and continuous feedback helped me grow as a product designer and build a strong portfolio. Thanks to the placement program, I landed two internships, which gave me real-world experience and confidence. I'm really grateful for the support and guidance throughout the journey!",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Rashi Mishra",
+                                "background": "UX Designer at Ednam Solutions",
+                                "rating": "5/5",
+                                "review_text": "Highly obliged for the support NextLeap has provided. Will take this opportunity to thank my incredible mentor, who still has my back and guides me when I can’t see the next step. Big thanks to the career services team at NextLeap for taking the hassle off from my shoulders of applications and seeking updates and follow ups.",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Priya Bhattacharya",
+                                "background": "Senior UX Designer at Eighty Days",
+                                "rating": "5/5",
+                                "review_text": "Balancing my Design corporate life, late-night study sessions, and the occasional challenge of finding the right recipe for success has been quite the journey. Picture countless discussions, mind-boggling case studies, and the #learninpublic challenges as intriguing puzzles to solve. It's been an adventure filled with curiosity, and I'm absolutely delighted about it! A heartfelt thank you goes out to the mentors and experts.",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Sidharth Roy",
+                                "background": "Architecture Student -> UI Designer",
+                                "rating": "4.5/5",
+                                "review_text": "The design critique sessions were brutal but incredibly helpful. I learned more in 16 weeks than I did in 2 years of self-study. The placement team helped me land my first gig at a startup.",
+                                "estimated": true
+                            }
+                        ],
+                        "tools_you_learn": [
+                            "Microsoft Clarity",
+                            "Hotjar",
+                            "Whimsical",
+                            "Figma",
+                            "OpenAI",
+                            "Claude",
+                            "Lovable",
+                            "Figma Make",
+                            "Protopie",
+                            "Lottiefiles"
+                        ],
+                        "frequently_asked_questions": [
+                            {
+                                "question": "Is design background required?",
+                                "answer": "No prior design knowledge is required, but you are expected to put in effort to master the skills.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "What is the duration of the course?",
+                                "answer": "The course is 16 weeks long with over 100 hours of live classes.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "Do you offer placement support?",
+                                "answer": "Yes, top fellows get 1 year of placement support including portfolio reviews and access to hiring partners.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "Can I switch cohorts if I have a personal emergency?",
+                                "answer": "Yes, NextLeap allows cohort deferrals in case of genuine emergencies, subject to approval.",
+                                "estimated": true
+                            },
+                            {
+                                "question": "What kind of projects will I work on?",
+                                "answer": "You will work on real-world projects, including redesigning existing apps and creating new product flows from scratch.",
+                                "estimated": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "course_name": "Business Analyst Fellowship",
+            "course_url": "https://nextleap.app/course/business-analyst-course",
+            "cohorts": [
+                {
+                    "cohort_label": "Cohort 12 starts on March 21, 2026",
+                    "cohort_number": 12,
+                    "cohort_start_date": "March 21, 2026",
+                    "cohort_start_date_iso": "2026-03-21",
+                    "parsed_from_label": true,
+                    "estimated": true,
+                    "cohort_details": {
+                        "live_class_duration": "18 weeks (100+ hours)",
+                        "fellowship_timeline": "18 weeks",
+                        "mentorship": "Weekly mentor sessions, Individual assignments feedback, Career queries",
+                        "placement_support": "1 year support for Top Fellows, Mock Interviews, Resume building, Access to Hire From Us network",
+                        "weekwise_course_details": [
+                            {
+                                "week": 1,
+                                "topics": [
+                                    "Business Thinking",
+                                    "Systems Thinking",
+                                    "Understanding Business Models",
+                                    "Building KPI Trees",
+                                    "OKRs"
+                                ],
+                                "learning_outcomes": [
+                                    "KPI Trees",
+                                    "Business Models"
+                                ]
+                            },
+                            {
+                                "week": 2,
+                                "topics": [
+                                    "Opportunity Sizing & Market Research",
+                                    "TAM, TOM, SOM",
+                                    "Hypotheses Building",
+                                    "Market Research Analysis"
+                                ],
+                                "learning_outcomes": [
+                                    "Opportunity sizing",
+                                    "Hypothesis building"
+                                ]
+                            },
+                            {
+                                "week": 3,
+                                "topics": [
+                                    "Problem Framing & Requirements Gathering",
+                                    "Mindmapping Solutions",
+                                    "Benefits and Constraints",
+                                    "Product Risks",
+                                    "User Stories",
+                                    "Human Motivations",
+                                    "Prioritising Solutions"
+                                ],
+                                "learning_outcomes": [
+                                    "BRD",
+                                    "User Stories",
+                                    "Roadmap prioritization"
+                                ]
+                            },
+                            {
+                                "week": 4,
+                                "topics": [
+                                    "Growth and GTM",
+                                    "Growth Cycle Stages",
+                                    "MVP & MVT",
+                                    "Product Market Fit",
+                                    "Loops, Funnels, Networks",
+                                    "Product Led Growth",
+                                    "AARRR Metrics",
+                                    "GTM Strategies",
+                                    "Growth Modelling"
+                                ],
+                                "learning_outcomes": [
+                                    "PLG strategies",
+                                    "Growth modelling"
+                                ]
+                            },
+                            {
+                                "week": 5,
+                                "topics": [
+                                    "Metrics & Analysis",
+                                    "Defining Metrics",
+                                    "Customer & Business Metrics",
+                                    "KPIs & North Star Metrics",
+                                    "Metrics Tree",
+                                    "Guardrail Metrics (KFIs)",
+                                    "Funnel & Cohort Analysis",
+                                    "Data Tracking & Instrumentation"
+                                ],
+                                "learning_outcomes": [
+                                    "Cohorts",
+                                    "Funnels",
+                                    "North Star Metrics",
+                                    "Metrics Dashboard"
+                                ]
+                            },
+                            {
+                                "week": 6,
+                                "topics": [
+                                    "Data Preparation using Excel",
+                                    "Basic Functions & Shortcuts",
+                                    "Data Formatting",
+                                    "Data Cleaning",
+                                    "Data Protection & Error Validation"
+                                ],
+                                "learning_outcomes": [
+                                    "Cleaning",
+                                    "Formatting"
+                                ]
+                            },
+                            {
+                                "week": 7,
+                                "topics": [
+                                    "Data Analysis using Excel",
+                                    "Lookup & Merging",
+                                    "PivotTable & Grouping",
+                                    "Conditional Formatting",
+                                    "Scenario & Sensitivity Analysis"
+                                ],
+                                "learning_outcomes": [
+                                    "Pivot tables",
+                                    "Lookups"
+                                ]
+                            },
+                            {
+                                "week": 8,
+                                "topics": [
+                                    "Data Visualisation using Excel",
+                                    "Charts & Viz Techniques",
+                                    "Data Viz Best Practices",
+                                    "Pivot Charts",
+                                    "Building Interactive Dashboards"
+                                ],
+                                "learning_outcomes": [
+                                    "Dashboards",
+                                    "Charts"
+                                ]
+                            },
+                            {
+                                "week": 9,
+                                "topics": [
+                                    "Data Analysis using SQL",
+                                    "Database Intro",
+                                    "Selection, Filtering & Ordering",
+                                    "Data Types, Operators, Functions",
+                                    "Aggregate & Group By"
+                                ],
+                                "learning_outcomes": [
+                                    "Selection",
+                                    "Filtering"
+                                ]
+                            },
+                            {
+                                "week": 10,
+                                "topics": [
+                                    "Data Manipulation with SQL",
+                                    "Conditional & Case Statements",
+                                    "Date/Timestamps",
+                                    "Joins",
+                                    "Subqueries"
+                                ],
+                                "learning_outcomes": [
+                                    "Joins",
+                                    "Subqueries"
+                                ]
+                            },
+                            {
+                                "week": 11,
+                                "topics": [
+                                    "Advanced Data Manipulation with SQL",
+                                    "CTE",
+                                    "Window Functions",
+                                    "SET Operators"
+                                ],
+                                "learning_outcomes": [
+                                    "Window functions",
+                                    "CTE"
+                                ]
+                            },
+                            {
+                                "week": 12,
+                                "topics": [
+                                    "LLMs & Prompt Engineering",
+                                    "ML Basics",
+                                    "Understanding LLMs",
+                                    "Prompt Engineering",
+                                    "Tokens, Temperature, Context Window"
+                                ],
+                                "learning_outcomes": [
+                                    "ML Basics",
+                                    "Prompting"
+                                ]
+                            },
+                            {
+                                "week": 13,
+                                "topics": [
+                                    "RAGs & AI Workflows",
+                                    "Embeddings & Vector DBs",
+                                    "Chunking Strategies",
+                                    "Creating AI Workflows",
+                                    "Triggers, Conditions, Webhooks"
+                                ],
+                                "learning_outcomes": [
+                                    "Building AI workflows"
+                                ]
+                            },
+                            {
+                                "week": 14,
+                                "topics": [
+                                    "Data Preparation & Exploration with Tableau",
+                                    "Loading Data",
+                                    "Data Cleaning",
+                                    "Aggregation",
+                                    "Filters & Analytics"
+                                ],
+                                "learning_outcomes": [
+                                    "Loading data",
+                                    "Cleaning in Tableau"
+                                ]
+                            },
+                            {
+                                "week": 15,
+                                "topics": [
+                                    "Data Visualisation with Tableau",
+                                    "Chart Types",
+                                    "Creating Charts",
+                                    "LOD & Calculated Fields",
+                                    "Dashboards & Stories"
+                                ],
+                                "learning_outcomes": [
+                                    "Charts",
+                                    "Stories"
+                                ]
+                            },
+                            {
+                                "week": 16,
+                                "topics": [
+                                    "Interview Prep & Graduation Project",
+                                    "Interview Types",
+                                    "Clarifying Questions",
+                                    "Guesstimates",
+                                    "RCA Questions",
+                                    "Start Graduation Project"
+                                ],
+                                "learning_outcomes": [
+                                    "Guesstimates",
+                                    "RCA"
+                                ]
+                            },
+                            {
+                                "week": 17,
+                                "topics": [
+                                    "Interview Prep & Graduation Project",
+                                    "Answering Metrics Questions",
+                                    "Graduation Project Work"
+                                ],
+                                "learning_outcomes": [
+                                    "Metrics interview prep"
+                                ]
+                            },
+                            {
+                                "week": 18,
+                                "topics": [
+                                    "Interview Prep & Graduation Project",
+                                    "Submit Graduation Project"
+                                ],
+                                "learning_outcomes": [
+                                    "Project submission"
+                                ]
+                            }
+                        ],
+                        "instructors": [
+                            {
+                                "name": "Arindam Mukherjee",
+                                "designation": "Co-founder, NextLeap",
+                                "experience": "Ex-Head of Product (Flipkart)"
+                            },
+                            {
+                                "name": "Prashanth Bhaskaran",
+                                "designation": "Product Lead",
+                                "experience": "Uber, Ex-CRED"
+                            },
+                            {
+                                "name": "Sahil Agrawal",
+                                "designation": "Business Analytics Manager",
+                                "experience": "Flipkart"
+                            },
+                            {
+                                "name": "Saksham Arora",
+                                "designation": "Senior Software Engineer",
+                                "experience": "Intuit, Ex-Microsoft"
+                            },
+                            {
+                                "name": "Varun Talikoti",
+                                "designation": "AGM Revenue and Growth",
+                                "experience": "Chai Point, Ex-Swiggy, Ex-Flipkart"
+                            }
+                        ],
+                        "mentors": [
+                            {
+                                "name": "Industry Experts",
+                                "expertise": "Business Analytics",
+                                "experience": "Analysts from Zomato, Flipkart, EXL, Walmart"
+                            }
+                        ],
+                        "cost": {
+                            "amount": "49,999",
+                            "currency": "INR",
+                            "payment_options": [
+                                "EMI starting at ₹1322/month",
+                                "Full Course Fee Payment"
+                            ],
+                            "estimated": false
+                        },
+                        "salary_ranges": {
+                            "min_lpa": "12",
+                            "max_lpa": "14",
+                            "estimated": false
+                        },
+                        "success_stories": [
+                            {
+                                "name": "Rahul Ganesh Regalla",
+                                "background": "IT Analyst at Cognizant",
+                                "outcome": "Data Analyst at Optimo Capital",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Ravi Kumar",
+                                "background": "Fresher",
+                                "outcome": "Pricing Analyst at Redbus",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Aboli Saraf",
+                                "background": "QC",
+                                "outcome": "Data Analyst at Norstella",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Sneha Reddy",
+                                "background": "Operations Manager",
+                                "outcome": "Business Analyst at Accenture",
+                                "estimated": true
+                            }
+                        ],
+                        "reviews": [
+                            {
+                                "reviewer_name": "Rahul Ganesh Regalla",
+                                "background": "Data Analyst at Optimo Capital",
+                                "rating": "5/5",
+                                "review_text": "The Fellowship was a great experience! The content and practice questions built strong subject knowledge, but what truly stood out was the community and mentorship from industry professionals actually working in data roles. The instructors were practicing analysts, making the learning highly relevant. Support through Discord, engaging case hours, and milestone projects helped me apply skills to real-world problems—and added real value to my resume and LinkedIn. For the mentorship, community, and hands-on projects alone, the Fellowship is well worth the time and investment!",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Ravi Kumar",
+                                "background": "Pricing Analyst at Redbus",
+                                "rating": "5/5",
+                                "review_text": "Thrilled to share that I’ve been recognized as a Top Fellow in the Data Analyst Fellowship at NextLeap! It’s been an incredible journey of learning and growth—sharpening my skills in Excel, SQL, Tableau, and Python, and solving real-world data problems along the way. Grateful for all the support, and excited to apply these learnings to new challenges ahead! Here’s to more insights, impact, and opportunities!",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Aboli Saraf",
+                                "background": "Data Analyst at Norstella",
+                                "rating": "5/5",
+                                "review_text": "Thrilled to share that I’ve completed the NextLeap Data Analyst Fellowship—and was recognized as a Top Fellow! From mastering SQL, Python, Tableau, and Excel to solving real-world problems, this journey has been incredibly rewarding. For my capstone, I built a rule-based insurance premium pricing model using customer segmentation, financial data, and behavioral insights—delivering actionable, ML-free pricing strategies. Big thanks to the amazing mentors, peers, and the NextLeap team for all the support!",
+                                "estimated": false
+                            }
+                        ],
+                        "tools_you_learn": [
+                            "Microsoft Clarity",
+                            "Hotjar",
+                            "Whimsical",
+                            "JIRA",
+                            "Google Analytics",
+                            "Microsoft Excel",
+                            "SQL",
+                            "Tableau"
+                        ],
+                        "frequently_asked_questions": [
+                            {
+                                "question": "Is coding required?",
+                                "answer": "No prior coding knowledge is required.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "Who is eligible for this course?",
+                                "answer": "Early-career professionals (2-3 years exp) and fresh graduates looking to transition into Business or Product Analyst roles.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "What tools will I master?",
+                                "answer": "You will master Excel, SQL, Tableau, and Business Intelligence tools essential for the role.",
+                                "estimated": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "course_name": "Data Analyst Fellowship",
+            "course_url": "https://nextleap.app/course/data-analyst-course",
+            "cohorts": [
+                {
+                    "cohort_label": "Cohort 15 starts on March 28, 2026",
+                    "cohort_number": 15,
+                    "cohort_start_date": "March 28, 2026",
+                    "cohort_start_date_iso": "2026-03-28",
+                    "parsed_from_label": true,
+                    "estimated": true,
+                    "cohort_details": {
+                        "live_class_duration": "16 weeks",
+                        "fellowship_timeline": "16 weeks",
+                        "mentorship": "One-on-One Guidance, Career Path Guidance",
+                        "placement_support": "1 year support, Resume Optimization, Mock Interviews, Hiring Partners",
+                        "weekwise_course_details": [
+                            {
+                                "week": 1,
+                                "topics": [
+                                    "Introduction to Data Analytics",
+                                    "Types of Data",
+                                    "Metrics & Analysis Types",
+                                    "EDA Steps",
+                                    "Intro to Data Viz"
+                                ],
+                                "learning_outcomes": [
+                                    "Exploratory data analysis steps",
+                                    "Metrics"
+                                ]
+                            },
+                            {
+                                "week": 2,
+                                "topics": [
+                                    "Data Preparation using Excel",
+                                    "Basic Functions",
+                                    "Formatting",
+                                    "Cleaning",
+                                    "Error Validation"
+                                ],
+                                "learning_outcomes": [
+                                    "Cleaning",
+                                    "Formatting",
+                                    "Validation"
+                                ]
+                            },
+                            {
+                                "week": 3,
+                                "topics": [
+                                    "Data Analysis using Excel",
+                                    "PivotTables",
+                                    "Scenario Analysis",
+                                    "Lookups",
+                                    "Merging"
+                                ],
+                                "learning_outcomes": [
+                                    "Pivot tables",
+                                    "Scenario analysis"
+                                ]
+                            },
+                            {
+                                "week": 4,
+                                "topics": [
+                                    "Data Visualization using Excel",
+                                    "Charts",
+                                    "Viz Techniques",
+                                    "Dashboarding"
+                                ],
+                                "learning_outcomes": [
+                                    "Charts",
+                                    "Visualization"
+                                ]
+                            },
+                            {
+                                "week": 5,
+                                "topics": [
+                                    "Data Analysis using SQL",
+                                    "Databases",
+                                    "Fundamental SQL Statements",
+                                    "Filtering & Ordering",
+                                    "Operators"
+                                ],
+                                "learning_outcomes": [
+                                    "Selection",
+                                    "Filtering",
+                                    "Operators"
+                                ]
+                            },
+                            {
+                                "week": 6,
+                                "topics": [
+                                    "Advanced Data Analysis using SQL",
+                                    "Numerical & Character Data Types",
+                                    "Aggregate & Group By",
+                                    "Timestamps"
+                                ],
+                                "learning_outcomes": [
+                                    "Functions",
+                                    "Aggregates",
+                                    "Grouping"
+                                ]
+                            },
+                            {
+                                "week": 7,
+                                "topics": [
+                                    "Data Manipulation with SQL",
+                                    "JOINS and Subqueries",
+                                    "Window Functions",
+                                    "Conditional Statements",
+                                    "SET Operators"
+                                ],
+                                "learning_outcomes": [
+                                    "JOINS",
+                                    "Subqueries",
+                                    "Window functions"
+                                ]
+                            },
+                            {
+                                "week": 8,
+                                "topics": [
+                                    "Database Design with SQL",
+                                    "Data Storage",
+                                    "Data Modeling & Schema Design",
+                                    "Normalization",
+                                    "Views"
+                                ],
+                                "learning_outcomes": [
+                                    "Normalization",
+                                    "Views",
+                                    "Schema Design"
+                                ]
+                            },
+                            {
+                                "week": 9,
+                                "topics": [
+                                    "Intro to Data Viz & Tableau",
+                                    "Data Storytelling",
+                                    "Tableau Workspace",
+                                    "Loading Data",
+                                    "Tableau Data Prep",
+                                    "Filters"
+                                ],
+                                "learning_outcomes": [
+                                    "Loading data",
+                                    "Filters"
+                                ]
+                            },
+                            {
+                                "week": 10,
+                                "topics": [
+                                    "Data Visualization with Tableau",
+                                    "Chart Types",
+                                    "Creating Charts",
+                                    "Mapping",
+                                    "Dashboards & Stories"
+                                ],
+                                "learning_outcomes": [
+                                    "Charts",
+                                    "Mapping",
+                                    "Dashboards"
+                                ]
+                            },
+                            {
+                                "week": 11,
+                                "topics": [
+                                    "Essentials of Python for Data Analysis",
+                                    "Environment Setup",
+                                    "Programming Fundamentals",
+                                    "Data Structures",
+                                    "File & Exception Handling"
+                                ],
+                                "learning_outcomes": [
+                                    "Data structures",
+                                    "File handling"
+                                ]
+                            },
+                            {
+                                "week": 12,
+                                "topics": [
+                                    "Advanced Data Analysis using Python",
+                                    "Numpy",
+                                    "Pandas",
+                                    "EDA using Pandas",
+                                    "Confirmatory Data Analysis"
+                                ],
+                                "learning_outcomes": [
+                                    "Numpy",
+                                    "Pandas",
+                                    "EDA"
+                                ]
+                            },
+                            {
+                                "week": 13,
+                                "topics": [
+                                    "Data Visualization using Python",
+                                    "Python Libraries",
+                                    "Matplotlib",
+                                    "Seaborn",
+                                    "Plotly"
+                                ],
+                                "learning_outcomes": [
+                                    "Matplotlib",
+                                    "Seaborn",
+                                    "Plotly"
+                                ]
+                            },
+                            {
+                                "week": 14,
+                                "topics": [
+                                    "Machine Learning Fundamentals",
+                                    "Predictive Models"
+                                ],
+                                "learning_outcomes": [
+                                    "Predictive models"
+                                ]
+                            },
+                            {
+                                "week": 15,
+                                "topics": [
+                                    "Interview Prep & Portfolio Building",
+                                    "Interview Questions",
+                                    "Resume Building",
+                                    "Portfolio Building"
+                                ],
+                                "learning_outcomes": [
+                                    "Portfolio building",
+                                    "Resume"
+                                ]
+                            },
+                            {
+                                "week": 16,
+                                "topics": [
+                                    "Graduation Project"
+                                ],
+                                "learning_outcomes": [
+                                    "Real-world project"
+                                ]
+                            }
+                        ],
+                        "instructors": [
+                            {
+                                "name": "Industry Experts",
+                                "designation": "Data Analysts",
+                                "experience": "Top Tech Companies"
+                            }
+                        ],
+                        "mentors": [
+                            {
+                                "name": "Experienced Data Analysts",
+                                "expertise": "Data Science & Analytics",
+                                "experience": "Industry Veterans"
+                            }
+                        ],
+                        "cost": {
+                            "amount": "49,999",
+                            "currency": "INR",
+                            "payment_options": [
+                                "EMI starting at ₹1469/month",
+                                "Full Course Fee Payment"
+                            ],
+                            "estimated": false
+                        },
+                        "salary_ranges": {
+                            "min_lpa": "8",
+                            "max_lpa": "12",
+                            "estimated": true
+                        },
+                        "success_stories": [
+                            {
+                                "name": "Vansh Agrawal",
+                                "background": "Fresher",
+                                "outcome": "Product Analyst at Zomato",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Vanshu Saini",
+                                "background": "Aspirant",
+                                "outcome": "Product Analyst at Phenom",
+                                "estimated": false
+                            },
+                            {
+                                "name": "Priya Sharma",
+                                "background": "B.Com Graduate",
+                                "outcome": "Data Analyst at Infosys",
+                                "estimated": true
+                            }
+                        ],
+                        "reviews": [
+                            {
+                                "reviewer_name": "Vansh Agrawal",
+                                "background": "Product Analyst at Zomato",
+                                "rating": "5/5",
+                                "review_text": "I got an offer for the Product Analyst role at Zomato – the NextLeap course and all the learnings from the Fellowship helped me a lot",
+                                "estimated": false
+                            },
+                            {
+                                "reviewer_name": "Vanshu Saini",
+                                "background": "Product Analyst at Phenom",
+                                "rating": "5/5",
+                                "review_text": "Great support from the NextLeap team on placements. Even after the Fellowship ended, they were available to address our queries.",
+                                "estimated": false
+                            }
+                        ],
+                        "tools_you_learn": [
+                            "Excel",
+                            "SQL",
+                            "Tableau",
+                            "Python",
+                            "Pandas",
+                            "Numpy",
+                            "Matplotlib",
+                            "Seaborn",
+                            "Plotly"
+                        ],
+                        "frequently_asked_questions": [
+                            {
+                                "question": "What tools will I learn?",
+                                "answer": "You will learn Excel, SQL, Python, Tableau, and various Python libraries like Pandas and Matplotlib.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "Is placement support provided?",
+                                "answer": "Yes, comprehensive placement support is provided including resume optimization and mock interviews.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "How many hours per week should I dedicate?",
+                                "answer": "We recommend dedicating 10-12 hours per week for live classes, assignments, and self-study.",
+                                "estimated": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "course_name": "Applied Generative AI Bootcamp",
+            "course_url": "https://nextleap.app/course/generative-ai-course",
+            "cohorts": [
+                {
+                    "cohort_label": "Cohort 4 starts on April 4, 2026",
+                    "cohort_number": 4,
+                    "cohort_start_date": "April 4, 2026",
+                    "cohort_start_date_iso": "2026-04-04",
+                    "parsed_from_label": true,
+                    "estimated": true,
+                    "cohort_details": {
+                        "live_class_duration": "8 weeks",
+                        "fellowship_timeline": "8 weeks",
+                        "mentorship": "Industry expert mentorship",
+                        "placement_support": "Career guidance and networking opportunities",
+                        "weekwise_course_details": [
+                            {
+                                "week": 1,
+                                "topics": [
+                                    "Introduction to LLMs",
+                                    "Transformers Architecture",
+                                    "Neural Networks Basics"
+                                ],
+                                "learning_outcomes": [
+                                    "Understanding Transformers",
+                                    "LLM Basics"
+                                ]
+                            },
+                            {
+                                "week": 2,
+                                "topics": [
+                                    "Prompt Engineering",
+                                    "Advanced Prompting Techniques",
+                                    "Few-shot Learning",
+                                    "Chain of Thought"
+                                ],
+                                "learning_outcomes": [
+                                    "Advanced prompting",
+                                    "Few-shot learning"
+                                ]
+                            },
+                            {
+                                "week": 3,
+                                "topics": [
+                                    "Building with APIs",
+                                    "OpenAI API",
+                                    "HuggingFace API",
+                                    "LangChain Basics"
+                                ],
+                                "learning_outcomes": [
+                                    "OpenAI API",
+                                    "HuggingFace"
+                                ]
+                            },
+                            {
+                                "week": 4,
+                                "topics": [
+                                    "RAG Architecture",
+                                    "Vector Databases",
+                                    "Embeddings",
+                                    "Semantic Search"
+                                ],
+                                "learning_outcomes": [
+                                    "Vector Databases",
+                                    "Embeddings"
+                                ]
+                            },
+                            {
+                                "week": 5,
+                                "topics": [
+                                    "Building AI Agents",
+                                    "Agent Frameworks",
+                                    "Tool Use"
+                                ],
+                                "learning_outcomes": [
+                                    "Building Agents"
+                                ]
+                            },
+                            {
+                                "week": 6,
+                                "topics": [
+                                    "Fine-Tuning LLMs",
+                                    "PEFT",
+                                    "LoRA"
+                                ],
+                                "learning_outcomes": [
+                                    "Fine-tuning Concepts"
+                                ]
+                            },
+                            {
+                                "week": 7,
+                                "topics": [
+                                    "AI Ethics & Safety",
+                                    "Bias in LLMs",
+                                    "Evaluation Metrics"
+                                ],
+                                "learning_outcomes": [
+                                    "AI Safety"
+                                ]
+                            },
+                            {
+                                "week": 8,
+                                "topics": [
+                                    "Capstone Project",
+                                    "Building a GenAI Application"
+                                ],
+                                "learning_outcomes": [
+                                    "Final Project"
+                                ]
+                            }
+                        ],
+                        "instructors": [
+                            {
+                                "name": "AI Industry Experts",
+                                "designation": "Generative AI Specialists",
+                                "experience": "Leading Tech Firms"
+                            }
+                        ],
+                        "mentors": [
+                            {
+                                "name": "GenAI Mentors",
+                                "expertise": "LLMs & AI Agents",
+                                "experience": "AI Research & Deployment"
+                            }
+                        ],
+                        "cost": {
+                            "amount": "30,000",
+                            "currency": "INR",
+                            "payment_options": [
+                                "EMI Options Available"
+                            ],
+                            "estimated": true
+                        },
+                        "salary_ranges": {
+                            "min_lpa": "15",
+                            "max_lpa": "25",
+                            "estimated": true
+                        },
+                        "success_stories": [
+                            {
+                                "name": "Vikram Singh",
+                                "background": "Data Scientist",
+                                "outcome": "AI Engineer at Google",
+                                "estimated": true
+                            },
+                            {
+                                "name": "Neha Gupta",
+                                "background": "Software Engineer",
+                                "outcome": "GenAI Developer at Microsoft",
+                                "estimated": true
+                            }
+                        ],
+                        "reviews": [
+                            {
+                                "reviewer_name": "Vikram Singh",
+                                "background": "Data Scientist",
+                                "rating": "5/5",
+                                "review_text": "The course provided a deep dive into LLMs and RAG. The practical projects were challenging and very relevant to current industry needs.",
+                                "estimated": true
+                            }
+                        ],
+                        "tools_you_learn": [
+                            "OpenAI API",
+                            "LangChain",
+                            "Vector DBs",
+                            "Python",
+                            "HuggingFace"
+                        ],
+                        "frequently_asked_questions": [
+                            {
+                                "question": "Is Python required?",
+                                "answer": "Yes, basic Python knowledge is recommended for this course.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "What will I build?",
+                                "answer": "You will build real-world GenAI applications using LLMs and RAG.",
+                                "estimated": false
+                            },
+                            {
+                                "question": "Do I need a GPU?",
+                                "answer": "Most projects can be run on Google Colab free tier, but a GPU is helpful for fine-tuning.",
+                                "estimated": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
